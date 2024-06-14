@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @vxctrr
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning JAVA.
